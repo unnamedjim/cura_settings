@@ -1,6 +1,95 @@
 {
     "dismissed": [],
-    "installed": {},
+    "installed": {
+        "CalibrationShapes": {
+            "filename": "/Users/jim/Library/Application Support/cura/4.12/cache/cura_packages/CalibrationShapes.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "5axes",
+                    "display_name": "5axes",
+                    "email": "cuq@free.fr",
+                    "website": "https://github.com/5axes"
+                },
+                "description": "This plugin adds a menu to create some basic shapes to the scene (cube, cylinder, tube, sphere) and standard test parts. \n\nYou can add standard test / calibration part :\n- Calibration Cube XYZ\n- PLA TempTower 220 - 180\u00b0C\n- PLA TempTower 220 - 190\u00b0C\n- PLA+ TempTower 230 - 200\u00b0C\n- ABS TempTower 250 - 210\u00b0C\n- PETG TempTower 260 - 230\u00b0C\n- Acceleration Tower\n- Retract Tower\n- A XY calibration Test\n- Retract Test part\n- Bridge Spiral Test\n- Thin Wall Test\n- Overhang Test\n- Flow Tower Test\n- Flow Test\n- Multi Flow Test\n- Tolerance Test\n- Support Test\n- Dimensional Accuracy Test\n- Linear Pressure Advance Tower\n- Bed Level Calibration Test\n\nAnd Multi-Extruder part :\n- Extruder Offset Calibration\n- Calibration Cube bi-color\n- Cube bi-color\n\n+ 4 postprocessing scripts",
+                "display_name": "Calibration Shapes",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CalibrationShapes",
+                "package_type": "plugin",
+                "package_version": "1.7.0",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.8.0",
+                "website": "https://github.com/5axes/Calibration-Shapes"
+            }
+        },
+        "HTMLCuraSettings": {
+            "filename": "/Users/jim/Library/Application Support/cura/4.12/cache/cura_packages/HTMLCuraSettings.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "5axes",
+                    "display_name": "5axes",
+                    "email": "cuq@free.fr",
+                    "website": "https://github.com/5axes"
+                },
+                "description": "Export settings to an HTML File\nIt creates an extra menu option under File -> \"Save Project...\" that allows you to save all of the settings to an HTML file for review/sharing. ",
+                "display_name": "Export HTML Cura Settings",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "HTMLCuraSettings",
+                "package_type": "plugin",
+                "package_version": "1.1.2",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.4.0",
+                "website": "https://github.com/5axes/CuraSettingsWriter"
+            }
+        },
+        "TabAntiWarping": {
+            "filename": "/Users/jim/Library/Application Support/cura/4.12/cache/cura_packages/TabAntiWarping.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "5axes",
+                    "display_name": "5axes",
+                    "email": "cuq@free.fr",
+                    "website": "https://github.com/5axes"
+                },
+                "description": "Add elements as rounded Tab to limit warping effect in print corner.\nOption to create a Capsule instead a Tab\nOption to create a Tab with several layer height\n\nLimited by the possibility to use just a global : Support X/Y Distance",
+                "display_name": "TabAntiWarping",
+                "is_active": false,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "TabAntiWarping",
+                "package_type": "plugin",
+                "package_version": "1.2.1",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.5.0",
+                "website": "https://github.com/5axes/TabAntiWarping"
+            }
+        },
+        "Textura": {
+            "filename": "/Users/jim/Library/Application Support/cura/4.12/cache/cura_packages/Textura.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "addnorth_nils",
+                    "display_name": "addnorth",
+                    "email": "info@addnorth.com",
+                    "website": "https://www.addnorth.com"
+                },
+                "description": "This unique filament makes your 3D-prints look extraordinary good. The surface becomes matte and tactile, with a sense of paper or gypsum rather than plastic, thanks to the plant-based fibers that are mixed into a special blend of PLA. Very easy to post process and paintable with water-based colors. Developed in collaboration with UPM Biocomposites.",
+                "display_name": "Textura",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "Textura",
+                "package_type": "material",
+                "package_version": "1.0.1",
+                "sdk_version": 7,
+                "sdk_version_semver": "7.8.0",
+                "website": "https://addnorth.com/en/product/Textura?sku=ANTE17MBL"
+            }
+        }
+    },
     "to_install": {},
     "to_remove": [],
     "version": 1
